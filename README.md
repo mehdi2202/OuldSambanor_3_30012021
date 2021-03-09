@@ -16,6 +16,7 @@ Affichage de la localisation des restaurants. À terme il sera possible de chois
 
 
 Pages de menu (x4) :
+
 4 pages contenant chacune le menu d’un restaurant. 
 
 
